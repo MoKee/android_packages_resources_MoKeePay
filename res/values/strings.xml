@@ -17,7 +17,6 @@
 -->
 
 <resources>
-
     <string name="app_name">MoKee Pay</string>
     <string name="loading">Accessing payment service</string>
     <string name="spend_points_failed" translatable="false">当前不满足兑换条件，100枚魔趣币可抵消捐赠款1元。</string>
