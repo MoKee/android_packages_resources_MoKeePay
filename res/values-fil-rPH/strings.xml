@@ -18,5 +18,5 @@
 -->
 <resources>
   <string name="app_name">MoKee Pay</string>
-  <string name="loading">Получение доступа к службе оплаты</string>
+  <string name="loading">Pag-access sa serbisyo ng pagbabayad</string>
 </resources>

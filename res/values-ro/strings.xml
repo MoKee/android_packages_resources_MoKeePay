@@ -18,4 +18,5 @@
 -->
 <resources>
   <string name="app_name">Plată Mokee</string>
+  <string name="loading">Accesez serviciile de plată</string>
 </resources>
