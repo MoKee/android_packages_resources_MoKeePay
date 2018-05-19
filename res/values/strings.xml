@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2014-2016 The MoKee Open Source Project
+     Copyright (C) 2014-2018 The MoKee Open Source Project
 
      This program is free software: you can redistribute it and/or modify
      it under the terms of the GNU General Public License as published by
@@ -17,8 +17,10 @@
 -->
 
 <resources>
+
     <string name="app_name">MoKee Pay</string>
     <string name="loading">Accessing payment service</string>
-    <string name="spend_points_failed" translatable="false">当前不满足兑换条件，100枚魔趣币可抵消捐赠款1元。</string>
-    <string name="spend_points_successful" translatable="false">已自动将%1$d枚魔趣币兑换为%2$2.2f元捐赠款。</string>
+    <string name="unable_to_access">Failed to connect to the payment server. Please try again.</string>
+    <string name="home_app">MoKee Center</string>
+
 </resources>
