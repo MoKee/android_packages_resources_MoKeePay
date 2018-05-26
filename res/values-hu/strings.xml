@@ -21,4 +21,8 @@
   <string name="loading">Hozzáférés fizetési szolgáltatáshoz</string>
   <string name="unable_to_access">A fizetési szerverhez való csatlakozás meghiúsult. Kérjük, próbálja később.</string>
   <string name="home_app">MoKee Központ</string>
+  <string name="transaction_details_title">A tranzakció részletei</string>
+  <string name="transaction_details_id_title">A tranzakció azonosítója:</string>
+  <string name="transaction_details_description_title">Leírás:</string>
+  <string name="transaction_details_price_title">Ár:</string>
 </resources>
