@@ -21,4 +21,8 @@
   <string name="loading">Accedendo al servizio di pagamento</string>
   <string name="unable_to_access">Impossibile connettersi al server per il pagamento. Si prega di riprovare.</string>
   <string name="home_app">Centro Mokee</string>
+  <string name="transaction_details_title">Dettagli della transazione</string>
+  <string name="transaction_details_id_title">ID transazione:</string>
+  <string name="transaction_details_description_title">Descrizione:</string>
+  <string name="transaction_details_price_title">Prezzo:</string>
 </resources>
