@@ -24,4 +24,5 @@
   <string name="transaction_details_title">Podrobnosti transakcije</string>
   <string name="transaction_details_id_title">ID transakcije:</string>
   <string name="transaction_details_description_title">Opis:</string>
+  <string name="transaction_details_price_title">Cena:</string>
 </resources>
