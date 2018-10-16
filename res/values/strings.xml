@@ -20,10 +20,9 @@
 
     <string name="app_name">MoKee Pay</string>
     <string name="loading">Accessing payment service</string>
-    <string name="unable_to_access">Failed to connect to the payment server. Please try again.</string>
     <string name="home_app">MoKee Center</string>
-    <string name="transaction_details_title">Transaction Details</string>
-    <string name="transaction_details_id_title">Transaction ID:</string>
-    <string name="transaction_details_description_title">Description:</string>
-    <string name="transaction_details_price_title">Price:</string>
+    <string name="transaction_confirm_title">Confirm donation</string>
+    <string name="transaction_id_title">Order ID</string>
+    <string name="transaction_subject_title">Subject</string>
+    <string name="transaction_createtime_title">Create Time</string>
 </resources>
