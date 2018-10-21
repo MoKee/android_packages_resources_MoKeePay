@@ -19,10 +19,5 @@
 <resources>
   <string name="app_name">MoKee Плацяжы</string>
   <string name="loading">Атрыманне доступу да службы аплаты</string>
-  <string name="unable_to_access">Не атрымалася падлучыцца да сервера аплаты. Калі ласка, паспрабуйце яшчэ раз.</string>
   <string name="home_app">Панэль MoKee</string>
-  <string name="transaction_details_title">Дэталі транзакцыі</string>
-  <string name="transaction_details_id_title">Ідэнтыфікатар транзакцыі:</string>
-  <string name="transaction_details_description_title">Апісанне:</string>
-  <string name="transaction_details_price_title">Кошт:</string>
 </resources>

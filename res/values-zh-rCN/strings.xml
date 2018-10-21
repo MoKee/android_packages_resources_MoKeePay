@@ -19,10 +19,5 @@
 <resources>
   <string name="app_name">魔趣支付</string>
   <string name="loading">正在访问支付服务</string>
-  <string name="unable_to_access">连接支付服务器失败，请重试。</string>
   <string name="home_app">魔趣中心</string>
-  <string name="transaction_details_title">交易明细</string>
-  <string name="transaction_details_id_title">交易编号：</string>
-  <string name="transaction_details_description_title">交易描述：</string>
-  <string name="transaction_details_price_title">交易金额：</string>
 </resources>

@@ -19,10 +19,5 @@
 <resources>
   <string name="app_name">MoKee Pay</string>
   <string name="loading">お支払いサービスへのアクセス</string>
-  <string name="unable_to_access">決済サーバーに接続できませんでした。もう一度やり直してください。</string>
   <string name="home_app">MoKee センター</string>
-  <string name="transaction_details_title">取引の詳細</string>
-  <string name="transaction_details_id_title">取引ID：</string>
-  <string name="transaction_details_description_title">説明：</string>
-  <string name="transaction_details_price_title">価格：</string>
 </resources>

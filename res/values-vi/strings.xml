@@ -19,10 +19,5 @@
 <resources>
   <string name="app_name">Thanh toán MoKee</string>
   <string name="loading">Truy cập vào dịch vụ thanh toán</string>
-  <string name="unable_to_access">Không thể kết nối tới hệ phục vụ thanh toán. Xin vui lòng thử lại.</string>
   <string name="home_app">Cập nhật</string>
-  <string name="transaction_details_title">Chi tiết giao dịch</string>
-  <string name="transaction_details_id_title">ID Giao Dịch:</string>
-  <string name="transaction_details_description_title">Mô tả:</string>
-  <string name="transaction_details_price_title">Đơn Giá:</string>
 </resources>

@@ -19,10 +19,10 @@
 <resources>
   <string name="app_name">موكي للدفع</string>
   <string name="loading">الوصول إلى خدمة الدفع</string>
-  <string name="unable_to_access">غير قادر علي الاتصال بالخادم. الرجاء اعد المحاولة.</string>
   <string name="home_app">مركز موكي</string>
-  <string name="transaction_details_title">تفاصيل المعاملة</string>
-  <string name="transaction_details_id_title">رقم تعريف الحوالة:</string>
-  <string name="transaction_details_description_title">الوصف:</string>
-  <string name="transaction_details_price_title">السعر:</string>
+  <string name="transaction_confirm_title">تأكيد التبرع</string>
+  <string name="transaction_id_title">رقم تعريف طلب الشّراء</string>
+  <string name="transaction_subject_title">الموضوع</string>
+  <string name="transaction_createtime_title">وقت الإنشاء</string>
+  <string name="payment_verifying">التحقق من نتائج الدفع...</string>
 </resources>

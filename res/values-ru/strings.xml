@@ -19,10 +19,10 @@
 <resources>
   <string name="app_name">MoKee Pay</string>
   <string name="loading">Получение доступа к службе оплаты</string>
-  <string name="unable_to_access">Не удалось подключиться к платежному серверу. Пожалуйста, попробуйте ещё раз.</string>
   <string name="home_app">Панель MoKee</string>
-  <string name="transaction_details_title">Детали транзакции</string>
-  <string name="transaction_details_id_title">Идентификатор транзакции:</string>
-  <string name="transaction_details_description_title">Описание:</string>
-  <string name="transaction_details_price_title">Сумма:</string>
+  <string name="transaction_confirm_title">Подтверждение пожертвования</string>
+  <string name="transaction_id_title">Номер транзакции</string>
+  <string name="transaction_subject_title">Название</string>
+  <string name="transaction_createtime_title">Время создания</string>
+  <string name="payment_verifying">Проверка оплаты...</string>
 </resources>

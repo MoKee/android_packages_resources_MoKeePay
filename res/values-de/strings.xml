@@ -19,10 +19,5 @@
 <resources>
   <string name="app_name">MoKee Bezahldienst</string>
   <string name="loading">Zugriff auf Bezahldienst</string>
-  <string name="unable_to_access">Es konnte keine Verbindung zum Zahlungsserver hergestellt werden. Bitte versuchen sie es erneut.</string>
   <string name="home_app">MoKee Center</string>
-  <string name="transaction_details_title">Transaktionsdetails</string>
-  <string name="transaction_details_id_title">Transaktions-ID:</string>
-  <string name="transaction_details_description_title">Beschreibung:</string>
-  <string name="transaction_details_price_title">Preis:</string>
 </resources>

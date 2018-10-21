@@ -19,10 +19,5 @@
 <resources>
   <string name="app_name">Platby MoKee</string>
   <string name="loading">Prístup k platobnej službe</string>
-  <string name="unable_to_access">Nepodarilo sa pripojiť k platobnému serveru. Zopakujte akciu.</string>
   <string name="home_app">Mokee centrum</string>
-  <string name="transaction_details_title">Podrobnosti transakcie</string>
-  <string name="transaction_details_id_title">ID transakcie:</string>
-  <string name="transaction_details_description_title">Popis:</string>
-  <string name="transaction_details_price_title">Cena:</string>
 </resources>

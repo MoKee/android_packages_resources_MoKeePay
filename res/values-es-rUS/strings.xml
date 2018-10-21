@@ -19,10 +19,5 @@
 <resources>
   <string name="app_name">MoKee Pago</string>
   <string name="loading">Acceso al servicio de pago</string>
-  <string name="unable_to_access">Error al conectarse al servidor de pagos. Inténtalo de nuevo.</string>
   <string name="home_app">Centro de Mokee</string>
-  <string name="transaction_details_title">Detalles de la Transacción</string>
-  <string name="transaction_details_id_title">ID de Transacción:</string>
-  <string name="transaction_details_description_title">Descripción:</string>
-  <string name="transaction_details_price_title">Precio:</string>
 </resources>

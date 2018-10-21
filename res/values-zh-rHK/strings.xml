@@ -19,10 +19,5 @@
 <resources>
   <string name="app_name">MoKee 支付</string>
   <string name="loading">正在訪問付款服務</string>
-  <string name="unable_to_access">無法連線至伺服器。請再試一次。</string>
   <string name="home_app">MoKee 中心</string>
-  <string name="transaction_details_title">交易記錄詳細資訊</string>
-  <string name="transaction_details_id_title">交易 ID:</string>
-  <string name="transaction_details_description_title">描述：</string>
-  <string name="transaction_details_price_title">價格：</string>
 </resources>

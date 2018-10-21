@@ -19,10 +19,5 @@
 <resources>
   <string name="app_name">MoKee Pay</string>
   <string name="loading">Piekļūst maksājumu servisam</string>
-  <string name="unable_to_access">Neizdevās izveidot savienojumu ar maksājumu serveri. Lūdzu mēģiniet vēlreiz.</string>
   <string name="home_app">MoKee Centrs</string>
-  <string name="transaction_details_title">Transakcijas Papildinformācija</string>
-  <string name="transaction_details_id_title">Transakcijas ID:</string>
-  <string name="transaction_details_description_title">Apraksts:</string>
-  <string name="transaction_details_price_title">Cena:</string>
 </resources>
