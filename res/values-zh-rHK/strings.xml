@@ -17,12 +17,12 @@
      along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
-  <string name="app_name">MoKee 支付</string>
-  <string name="loading">正在訪問付款服務</string>
-  <string name="home_app">MoKee 中心</string>
-  <string name="transaction_confirm_title">確認捐贈</string>
-  <string name="transaction_id_title">訂單編號</string>
-  <string name="transaction_subject_title">主旨</string>
-  <string name="transaction_createtime_title">建立時間</string>
-  <string name="payment_verifying">正在驗證付款結果...</string>
+    <string name="app_name">MoKee 支付</string>
+    <string name="loading">正在訪問付款服務</string>
+    <string name="home_app">MoKee 中心</string>
+    <string name="transaction_confirm_title">確認捐贈</string>
+    <string name="transaction_id_title">訂單編號</string>
+    <string name="transaction_subject_title">主旨</string>
+    <string name="transaction_createtime_title">建立時間</string>
+    <string name="payment_verifying">正在驗證付款結果...</string>
 </resources>

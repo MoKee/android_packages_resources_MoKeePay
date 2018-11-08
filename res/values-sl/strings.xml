@@ -17,11 +17,12 @@
      along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
-  <string name="app_name">MoKee plačilo</string>
-  <string name="loading">Dostop do plačilnih storitev</string>
-  <string name="home_app">MoKee Center</string>
-  <string name="transaction_confirm_title">Potrdi darovanje</string>
-  <string name="transaction_id_title">ID naročila</string>
-  <string name="transaction_subject_title">Zadeva</string>
-  <string name="payment_verifying">Preverjanje rezultatov plačila...</string>
+    <string name="app_name">MoKee plačilo</string>
+    <string name="loading">Dostop do plačilnih storitev</string>
+    <string name="home_app">MoKee Center</string>
+    <string name="transaction_confirm_title">Potrdi darovanje</string>
+    <string name="transaction_id_title">ID naročila</string>
+    <string name="transaction_subject_title">Zadeva</string>
+    <string name="transaction_createtime_title">Čas kreiranja</string>
+    <string name="payment_verifying">Preverjanje rezultatov plačila...</string>
 </resources>

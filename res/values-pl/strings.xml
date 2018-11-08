@@ -17,7 +17,7 @@
      along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
-  <string name="app_name">MoKee Pay</string>
-  <string name="loading">Dostęp do usług płatniczych</string>
-  <string name="home_app">Centrum MoKee</string>
+    <string name="app_name">MoKee Pay</string>
+    <string name="loading">Dostęp do usług płatniczych</string>
+    <string name="home_app">Centrum MoKee</string>
 </resources>

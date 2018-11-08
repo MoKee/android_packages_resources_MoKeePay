@@ -17,7 +17,12 @@
      along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
-  <string name="app_name">Platby MoKee</string>
-  <string name="loading">Prístup k platobnej službe</string>
-  <string name="home_app">Mokee centrum</string>
+    <string name="app_name">Platby MoKee</string>
+    <string name="loading">Prístup k platobnej službe</string>
+    <string name="home_app">Mokee centrum</string>
+    <string name="transaction_confirm_title">Potvrdiť dar</string>
+    <string name="transaction_id_title">ID objednávky</string>
+    <string name="transaction_subject_title">Predmet</string>
+    <string name="transaction_createtime_title">Čas vytvorenia</string>
+    <string name="payment_verifying">Overovanie platby...</string>
 </resources>
