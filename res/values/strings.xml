@@ -26,4 +26,6 @@
     <string name="transaction_subject_title">Subject</string>
     <string name="transaction_createtime_title">Create Time</string>
     <string name="payment_verifying">Verifying payment results...</string>
+    <string name="no_storage_permissions">Storage permission is required</string>
+    <string name="no_phone_permissions">Phone permission is required</string>
 </resources>
