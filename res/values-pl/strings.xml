@@ -20,4 +20,5 @@
     <string name="app_name">MoKee Pay</string>
     <string name="loading">Dostęp do usług płatniczych</string>
     <string name="home_app">Centrum MoKee</string>
+    <string name="no_storage_permissions">Wymagane jest uprawnienie \'Pamięć\'</string>
 </resources>

@@ -20,4 +20,5 @@
     <string name="app_name">Payement MoKee</string>
     <string name="loading">Accès aux services de paiement</string>
     <string name="home_app">Centre Mokee</string>
+    <string name="no_storage_permissions">L\'autorisation d\'accès au stockage est requise</string>
 </resources>

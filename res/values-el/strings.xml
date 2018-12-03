@@ -20,4 +20,5 @@
     <string name="app_name">Πληρωμή MoKee</string>
     <string name="loading">Πρόσβαση στην υπηρεσία πληρωμών</string>
     <string name="home_app">Κέντρο MoKee</string>
+    <string name="no_storage_permissions">Απαιτείται άδεια Αποθήκευσης</string>
 </resources>

@@ -18,4 +18,5 @@
 -->
 <resources>
     <string name="home_app">Mokee Senter</string>
+    <string name="no_storage_permissions">Tillatelse for lagring kreves</string>
 </resources>

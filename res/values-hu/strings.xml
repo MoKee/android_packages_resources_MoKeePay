@@ -25,4 +25,6 @@
     <string name="transaction_subject_title">Tárgy</string>
     <string name="transaction_createtime_title">Létrehozás ideje</string>
     <string name="payment_verifying">Befizetés-állapotok ellenőrzése...</string>
+    <string name="no_storage_permissions">Tárhely-hozzáférés szükséges</string>
+    <string name="no_phone_permissions">Hozzáférési engedély szükséges a telefonhoz</string>
 </resources>

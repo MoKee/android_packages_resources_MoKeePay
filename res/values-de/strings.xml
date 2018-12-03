@@ -20,4 +20,5 @@
     <string name="app_name">MoKee Bezahldienst</string>
     <string name="loading">Zugriff auf Bezahldienst</string>
     <string name="home_app">MoKee Center</string>
+    <string name="no_storage_permissions">Speicher-Berechtigung wird benötigt</string>
 </resources>

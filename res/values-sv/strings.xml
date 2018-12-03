@@ -19,4 +19,5 @@
 <resources>
     <string name="app_name">MoKee Pay</string>
     <string name="home_app">MoKee Center</string>
+    <string name="no_storage_permissions">Lagringsbehörighet krävs</string>
 </resources>

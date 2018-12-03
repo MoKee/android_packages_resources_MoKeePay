@@ -25,4 +25,5 @@
     <string name="transaction_subject_title">Predmet</string>
     <string name="transaction_createtime_title">Čas vytvorenia</string>
     <string name="payment_verifying">Overovanie platby...</string>
+    <string name="no_storage_permissions">Je potrebné povolenie pre prístup k súborom</string>
 </resources>
