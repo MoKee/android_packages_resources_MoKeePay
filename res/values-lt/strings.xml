@@ -18,4 +18,5 @@
 -->
 <resources>
     <string name="home_app">MoKee centras</string>
+    <string name="no_storage_permissions">Reikalingas saugyklos leidimas</string>
 </resources>

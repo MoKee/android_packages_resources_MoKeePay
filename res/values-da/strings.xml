@@ -18,4 +18,5 @@
 -->
 <resources>
     <string name="home_app">MoKee Center</string>
+    <string name="no_storage_permissions">Tilladelse til at gemme påkrævet</string>
 </resources>

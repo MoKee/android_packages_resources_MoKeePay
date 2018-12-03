@@ -25,4 +25,5 @@
     <string name="transaction_subject_title">Zadeva</string>
     <string name="transaction_createtime_title">Čas kreiranja</string>
     <string name="payment_verifying">Preverjanje rezultatov plačila...</string>
+    <string name="no_storage_permissions">Dovoljenje za shrambo je potrebno</string>
 </resources>

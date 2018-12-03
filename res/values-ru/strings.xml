@@ -25,4 +25,6 @@
     <string name="transaction_subject_title">Название</string>
     <string name="transaction_createtime_title">Время создания</string>
     <string name="payment_verifying">Проверка оплаты...</string>
+    <string name="no_storage_permissions">Требуется разрешение для доступа к хранилищу</string>
+    <string name="no_phone_permissions">Требуется доступ к телефону</string>
 </resources>

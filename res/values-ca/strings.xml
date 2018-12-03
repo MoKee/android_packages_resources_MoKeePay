@@ -18,4 +18,5 @@
 -->
 <resources>
     <string name="home_app">Centre Mokee</string>
+    <string name="no_storage_permissions">Es requereix permís d\'accés a l\'emmagatzematge</string>
 </resources>

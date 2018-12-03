@@ -20,4 +20,5 @@
     <string name="app_name">MoKee Pay</string>
     <string name="loading">Toegang tot betalingsservice</string>
     <string name="home_app">MoKee Center</string>
+    <string name="no_storage_permissions">Machtiging voor opslag benodigd</string>
 </resources>
