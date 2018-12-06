@@ -19,7 +19,7 @@
 <resources>
     <string name="app_name">MoKee plačilo</string>
     <string name="loading">Dostop do plačilnih storitev</string>
-    <string name="home_app">MoKee Center</string>
+    <string name="home_app">MoKee center</string>
     <string name="transaction_confirm_title">Potrdi darovanje</string>
     <string name="transaction_id_title">ID naročila</string>
     <string name="transaction_subject_title">Zadeva</string>
