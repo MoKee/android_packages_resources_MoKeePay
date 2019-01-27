@@ -20,5 +20,11 @@
     <string name="app_name">MoKee Pay</string>
     <string name="loading">Dostęp do usług płatniczych</string>
     <string name="home_app">Centrum MoKee</string>
+    <string name="transaction_confirm_title">Potwierdź darowiznę</string>
+    <string name="transaction_id_title">Numer Identyfikacyjny Zamówienia</string>
+    <string name="transaction_subject_title">Podmiot</string>
+    <string name="transaction_createtime_title">Utwórz czas</string>
+    <string name="payment_verifying">Sprawdzanie wyników płatności...</string>
     <string name="no_storage_permissions">Wymagane jest uprawnienie \'Pamięć\'</string>
+    <string name="no_phone_permissions">Wymagane jest uprawnienie \'Telefon\'</string>
 </resources>

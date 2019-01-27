@@ -20,4 +20,6 @@
     <string name="app_name">Plată Mokee</string>
     <string name="loading">Accesez serviciile de plată</string>
     <string name="home_app">Centrul MoKee</string>
+    <string name="transaction_confirm_title">Confirmă donația</string>
+    <string name="transaction_subject_title">Subiect</string>
 </resources>

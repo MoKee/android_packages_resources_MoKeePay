@@ -26,4 +26,5 @@
     <string name="transaction_createtime_title">建立時間</string>
     <string name="payment_verifying">正在驗證付款結果...</string>
     <string name="no_storage_permissions">儲存空間權限是必要的</string>
+    <string name="no_phone_permissions">電話權限是必需的</string>
 </resources>
