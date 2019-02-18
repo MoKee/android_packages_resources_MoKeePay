@@ -20,5 +20,7 @@
     <string name="app_name">MoKee maksu</string>
     <string name="loading">Hyväksy maksuehdot</string>
     <string name="home_app">MoKee-keskus</string>
+    <string name="transaction_confirm_title">Vahvistus</string>
+    <string name="transaction_id_title">Tilausnumero</string>
     <string name="no_storage_permissions">Lupa tallennustilaan vaaditaan</string>
 </resources>

@@ -20,5 +20,11 @@
     <string name="app_name">MoKee Pay</string>
     <string name="loading">お支払いサービスへのアクセス</string>
     <string name="home_app">MoKee センター</string>
+    <string name="transaction_confirm_title">寄付を確認</string>
+    <string name="transaction_id_title">注文ID</string>
+    <string name="transaction_subject_title">被写体</string>
+    <string name="transaction_createtime_title">時間を作成する</string>
+    <string name="payment_verifying">決済結果を確認しています.</string>
     <string name="no_storage_permissions">ストレージへのアクセス許可が必要です</string>
+    <string name="no_phone_permissions">ストレージへのアクセス許可が必要です</string>
 </resources>
