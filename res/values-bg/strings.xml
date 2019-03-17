@@ -20,4 +20,5 @@
     <string name="app_name">MoKee плащане</string>
     <string name="loading">Достъп до услугата за плащане</string>
     <string name="home_app">MoKee Център</string>
+    <string name="transaction_subject_title">Относно</string>
 </resources>
