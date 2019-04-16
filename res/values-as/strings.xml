@@ -16,4 +16,15 @@
      You should have received a copy of the GNU General Public License
      along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+    <string name="app_name">MoKee পে\'</string>
+    <string name="loading">পৰিশোধ পৰিসেৱালৈ প্ৰৱেশ হৈ আছে</string>
+    <string name="home_app">MoKee কেন্দ্ৰ</string>
+    <string name="transaction_confirm_title">অনুদান নিশ্চিত কৰক</string>
+    <string name="transaction_id_title">অৰ্ডাৰ ID</string>
+    <string name="transaction_subject_title">বিষয়</string>
+    <string name="transaction_createtime_title">সময় সৃষ্টি কৰক</string>
+    <string name="payment_verifying">পৰিশোধৰ ফলাফল সত্যাপণ হৈ আছে...</string>
+    <string name="no_storage_permissions">সঞ্চয়াগাৰৰ অনুমতিৰ প্ৰয়োজন</string>
+    <string name="no_phone_permissions">ফোনৰ অনুমতিৰ প্ৰয়োজন</string>
+</resources>

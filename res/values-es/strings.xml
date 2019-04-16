@@ -20,5 +20,8 @@
     <string name="app_name">Pago MoKee</string>
     <string name="loading">Acceso a servicio de pago</string>
     <string name="home_app">Centro MoKee</string>
+    <string name="transaction_confirm_title">Confirmar donación</string>
+    <string name="transaction_subject_title">Asunto</string>
     <string name="no_storage_permissions">Se requiere permiso de almacenamiento</string>
+    <string name="no_phone_permissions">Se requiere permiso del teléfono</string>
 </resources>
