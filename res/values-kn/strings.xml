@@ -18,13 +18,5 @@
 -->
 <resources>
     <string name="app_name">MoKee ಪಾವತಿ</string>
-    <string name="loading">ಪಾವತಿ ಸೇವೆಯನ್ನು ತೆರೆಯಲಾಗುತ್ತಿದೆ</string>
     <string name="home_app">Mokee ಕೇಂದ್ರ</string>
-    <string name="transaction_confirm_title">ದೇಣಿಗೆಯನ್ನು ದೃಢೀಕರಿಸಿ</string>
-    <string name="transaction_id_title">ಆದೇಶ ಗುರುತು</string>
-    <string name="transaction_subject_title">ವಿಷಯ</string>
-    <string name="transaction_createtime_title">ಸಮಯ ರಚಿಸು</string>
-    <string name="payment_verifying">ಪಾವತಿಯ ಫಲಿತಾಂಶಗಳನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ...</string>
-    <string name="no_storage_permissions">ಸಂಗ್ರಹಣಾ ಪರವಾನಗಿಯ ಅಗತ್ಯವಿದೆ</string>
-    <string name="no_phone_permissions">ಫೋನಿನ ಪರವಾನಗಿಯ ಅಗತ್ಯವಿದೆ</string>
 </resources>
