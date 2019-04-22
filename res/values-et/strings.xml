@@ -17,14 +17,14 @@
      along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
-    <string name="app_name">MoKee Pay</string>
-    <string name="loading">Accès aux services de paiement</string>
-    <string name="home_app">Centre Mokee</string>
-    <string name="transaction_confirm_title">Confirmer le don</string>
-    <string name="transaction_id_title">ID ordre</string>
-    <string name="transaction_subject_title">Objet</string>
-    <string name="transaction_createtime_title">Date de création</string>
-    <string name="payment_verifying">Vérification des résultats...</string>
-    <string name="no_storage_permissions">L\'autorisation d\'accès au stockage est nécessaire</string>
-    <string name="no_phone_permissions">L\'autorisation d\'accès au téléphone est nécessaire</string>
+    <string name="app_name">MoKee tasu</string>
+    <string name="loading">Juurdepääs makseteenusele</string>
+    <string name="home_app">MoKee keskus</string>
+    <string name="transaction_confirm_title">Kinnita annetus</string>
+    <string name="transaction_id_title">Tellimuse ID</string>
+    <string name="transaction_subject_title">Teema</string>
+    <string name="transaction_createtime_title">Loomise aeg</string>
+    <string name="payment_verifying">Maksetulemuste kinnitamine ...</string>
+    <string name="no_storage_permissions">Nõutav on salvestusluba</string>
+    <string name="no_phone_permissions">Nõutav on telefoni luba</string>
 </resources>
