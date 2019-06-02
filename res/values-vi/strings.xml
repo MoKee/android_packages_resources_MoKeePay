@@ -25,5 +25,6 @@
     <string name="transaction_subject_title">Chủ đề</string>
     <string name="transaction_createtime_title">Thời gian tạo</string>
     <string name="payment_verifying">Verifying payment results...</string>
+    <string name="no_storage_permissions">Yêu cầu bộ nhớ</string>
     <string name="no_phone_permissions">Yêu cầu cấp quyền hạn</string>
 </resources>
