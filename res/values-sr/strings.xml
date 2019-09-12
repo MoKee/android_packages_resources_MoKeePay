@@ -17,5 +17,14 @@
      along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
+    <string name="app_name">MoKee плаћање</string>
+    <string name="loading">Приступ платном сервису</string>
     <string name="home_app">MoKee Центар</string>
+    <string name="transaction_confirm_title">Потврди донацију</string>
+    <string name="transaction_id_title">Број наруџбе</string>
+    <string name="transaction_subject_title">Предмет</string>
+    <string name="transaction_createtime_title">Време креирања</string>
+    <string name="payment_verifying">Верификација плаћања...</string>
+    <string name="no_storage_permissions">Потребна је дозвола за снимања у меморију уређаја</string>
+    <string name="no_phone_permissions">Потребна је дозвола за приступ телефону</string>
 </resources>
