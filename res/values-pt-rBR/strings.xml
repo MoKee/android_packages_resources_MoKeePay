@@ -24,6 +24,7 @@
     <string name="transaction_id_title">Id. da Encomenda</string>
     <string name="transaction_subject_title">Assunto</string>
     <string name="transaction_createtime_title">Hora de Criação</string>
+    <string name="payment_verifying">Verificando os resultados dos pagamentos…</string>
     <string name="no_storage_permissions">É necessária a permissão Armazenamento</string>
     <string name="no_phone_permissions">Necessária a permissão para telefone</string>
 </resources>
