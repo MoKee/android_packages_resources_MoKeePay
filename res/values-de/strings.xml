@@ -24,6 +24,7 @@
     <string name="transaction_id_title">Bestell-Nr.</string>
     <string name="transaction_subject_title">Betreff</string>
     <string name="transaction_createtime_title">Zeit erstellen</string>
+    <string name="payment_verifying">Zahlung wird überprüft…</string>
     <string name="no_storage_permissions">Speicher-Berechtigung wird benötigt</string>
     <string name="no_phone_permissions">Telefon-Berechtigung ist erforderlich</string>
 </resources>

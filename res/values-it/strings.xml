@@ -24,6 +24,7 @@
     <string name="transaction_id_title">ID ordine</string>
     <string name="transaction_subject_title">Oggetto</string>
     <string name="transaction_createtime_title">Data di creazione</string>
+    <string name="payment_verifying">Controllando l\'esito del pagamento…</string>
     <string name="no_storage_permissions">L\'autorizzazione Archiviazione è necessaria</string>
     <string name="no_phone_permissions">L\'autorizzazione Telefono è necessaria</string>
 </resources>
