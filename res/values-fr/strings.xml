@@ -21,10 +21,10 @@
     <string name="loading">Accès aux services de paiement</string>
     <string name="home_app">Centre Mokee</string>
     <string name="transaction_confirm_title">Confirmer le don</string>
-    <string name="transaction_id_title">ID ordre</string>
+    <string name="transaction_id_title">Commande n°</string>
     <string name="transaction_subject_title">Objet</string>
     <string name="transaction_createtime_title">Date de création</string>
     <string name="payment_verifying">Vérification des résultats du paiement…</string>
     <string name="no_storage_permissions">L\'autorisation d\'accès au stockage est nécessaire</string>
-    <string name="no_phone_permissions">L\'autorisation d\'accès au téléphone est nécessaire</string>
+    <string name="no_phone_permissions">Autorisation du téléphone requise</string>
 </resources>
