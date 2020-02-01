@@ -24,6 +24,6 @@
     <string name="transaction_id_title">Nomor Pesanan</string>
     <string name="transaction_subject_title">Subjek</string>
     <string name="transaction_createtime_title">Waktu Pembuatan</string>
-    <string name="no_storage_permissions">Izin Penyimpanan diperlukan</string>
+    <string name="no_storage_permissions">Izin penyimpanan diperlukan</string>
     <string name="no_phone_permissions">Izin Telepon diperlukan</string>
 </resources>
