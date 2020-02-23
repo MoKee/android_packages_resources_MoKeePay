@@ -23,6 +23,7 @@
     <string name="transaction_id_title">رقم تعريف طلب الشّراء</string>
     <string name="transaction_subject_title">الموضوع</string>
     <string name="transaction_createtime_title">وقت الإنشاء</string>
+    <string name="payment_verifying">التحقق من نتائج الدفع…</string>
     <string name="no_storage_permissions">الإذن مطلوب للتخزين</string>
     <string name="no_phone_permissions">مطلوب إذن الهاتف</string>
 </resources>
