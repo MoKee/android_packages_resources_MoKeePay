@@ -23,6 +23,7 @@
     <string name="transaction_id_title">Sipariş numarası</string>
     <string name="transaction_subject_title">Konu</string>
     <string name="transaction_createtime_title">Oluşturma zamanı</string>
+    <string name="payment_verifying">Ödeme sonuçları doğrulanıyor...</string>
     <string name="no_storage_permissions">Depolama izni gerekiyor</string>
     <string name="no_phone_permissions">Telefon izni gerekiyor</string>
 </resources>

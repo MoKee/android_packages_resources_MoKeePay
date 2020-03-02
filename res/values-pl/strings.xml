@@ -23,6 +23,7 @@
     <string name="transaction_id_title">Numer Identyfikacyjny Zamówienia</string>
     <string name="transaction_subject_title">Podmiot</string>
     <string name="transaction_createtime_title">Utwórz czas</string>
+    <string name="payment_verifying">Weryfikacja płatności…</string>
     <string name="no_storage_permissions">Wymagane jest uprawnienie \'Pamięć\'</string>
     <string name="no_phone_permissions">Wymagane jest uprawnienie \'Telefon\'</string>
 </resources>

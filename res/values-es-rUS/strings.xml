@@ -23,6 +23,7 @@
     <string name="transaction_id_title">Order ID</string>
     <string name="transaction_subject_title">Asunto</string>
     <string name="transaction_createtime_title">Crear tiempo</string>
+    <string name="payment_verifying">Verificando resultados de pago…</string>
     <string name="no_storage_permissions">Se requiere permiso de almacenamiento</string>
     <string name="no_phone_permissions">Se requiere permiso del teléfono</string>
 </resources>
