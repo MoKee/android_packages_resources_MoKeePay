@@ -19,4 +19,11 @@
     <string name="app_name">MoKee Платежі</string>
     <string name="loading">Отримання доступу до служби оплати</string>
     <string name="home_app">Центр MoKee</string>
+    <string name="transaction_confirm_title">Підтвердити пожертвування</string>
+    <string name="transaction_id_title">Номер транзакції</string>
+    <string name="transaction_subject_title">Назва</string>
+    <string name="transaction_createtime_title">Час створення</string>
+    <string name="payment_verifying">Перевірка результатів платежу…</string>
+    <string name="no_storage_permissions">Потрібен дозвіл для доступу до сховища</string>
+    <string name="no_phone_permissions">Потрібен доступ до телефону</string>
 </resources>
