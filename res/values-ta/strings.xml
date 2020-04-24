@@ -17,4 +17,6 @@
 -->
 <resources>
     <string name="home_app">MoKee மையம்</string>
+    <string name="transaction_subject_title">பொருள்</string>
+    <string name="no_storage_permissions">சேமிப்பக அனுமதித் தேவை</string>
 </resources>
