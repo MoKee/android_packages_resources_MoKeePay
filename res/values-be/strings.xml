@@ -19,10 +19,4 @@
     <string name="app_name">MoKee Плацяжы</string>
     <string name="loading">Атрыманне доступу да службы аплаты</string>
     <string name="home_app">Панэль MoKee</string>
-    <string name="transaction_confirm_title">ДОНАТЬ СУКА ДОНАТЬ ТВАРЬ</string>
-    <string name="transaction_id_title">КДБ ID</string>
-    <string name="transaction_subject_title">Чорная красуня</string>
-    <string name="transaction_createtime_title">Выклікаць прастытутак</string>
-    <string name="no_storage_permissions">Дазвол на выезд неабходна</string>
-    <string name="no_phone_permissions">Патрэбны дазвол ад КДБ на тэлефон</string>
 </resources>
