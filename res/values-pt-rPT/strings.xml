@@ -18,11 +18,12 @@
 <resources>
     <string name="app_name">MoKee Pay</string>
     <string name="loading">Aceder ao sistema de pagamento</string>
-    <string name="home_app">MoKee - Centro</string>
+    <string name="home_app">Central MoKee</string>
     <string name="transaction_confirm_title">Confirmar doação</string>
     <string name="transaction_id_title">Id. da Encomenda</string>
     <string name="transaction_subject_title">Assunto</string>
     <string name="transaction_createtime_title">Hora de Criação</string>
+    <string name="payment_verifying">A verificar o resultado do pagamento…</string>
     <string name="no_storage_permissions">Necessita da permissão Armazenamento</string>
     <string name="no_phone_permissions">Necessária a permissão para telefone</string>
 </resources>

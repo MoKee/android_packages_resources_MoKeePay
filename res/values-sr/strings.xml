@@ -23,6 +23,7 @@
     <string name="transaction_id_title">Број наруџбе</string>
     <string name="transaction_subject_title">Предмет</string>
     <string name="transaction_createtime_title">Време креирања</string>
+    <string name="payment_verifying">Верификација плаћања...</string>
     <string name="no_storage_permissions">Потребна је дозвола за снимања у меморију уређаја</string>
     <string name="no_phone_permissions">Потребна је дозвола за приступ телефону</string>
 </resources>
