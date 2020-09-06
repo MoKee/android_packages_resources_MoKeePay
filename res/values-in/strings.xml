@@ -17,7 +17,7 @@
 -->
 <resources>
     <string name="app_name">MoKee Pay</string>
-    <string name="loading">Nengakses layanan pembayaran</string>
+    <string name="loading">Akses layanan pembayaran</string>
     <string name="home_app">Pusat MoKee</string>
     <string name="transaction_confirm_title">Konfirmasi donasi</string>
     <string name="transaction_id_title">Nomor Pesanan</string>
