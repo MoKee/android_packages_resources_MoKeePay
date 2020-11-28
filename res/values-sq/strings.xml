@@ -17,4 +17,7 @@
 -->
 <resources>
     <string name="home_app">Mokee مركز</string>
+    <string name="transaction_subject_title">Subjekti</string>
+    <string name="transaction_createtime_title">Krijo kohë</string>
+    <string name="no_storage_permissions">Kërkohet leja e magazinimit</string>
 </resources>
