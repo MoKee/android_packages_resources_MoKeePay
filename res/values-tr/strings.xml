@@ -20,10 +20,10 @@
     <string name="loading">Ödeme hizmetine erişme</string>
     <string name="home_app">MoKee Merkezi</string>
     <string name="transaction_confirm_title">Bağışı onaylayın</string>
-    <string name="transaction_id_title">Sipariş Kimliği</string>
+    <string name="transaction_id_title">Sipariş kimliği</string>
     <string name="transaction_subject_title">Konu</string>
-    <string name="transaction_createtime_title">Zaman Oluştur</string>
+    <string name="transaction_createtime_title">Oluşturma zamanı</string>
     <string name="payment_verifying">Ödeme sonuçları doğrulanıyor...</string>
-    <string name="no_storage_permissions">Depolama izni gerekli</string>
-    <string name="no_phone_permissions">Telefon izni gerekli</string>
+    <string name="no_storage_permissions">Depolama izni gerekiyor</string>
+    <string name="no_phone_permissions">Telefon izni gerekiyor</string>
 </resources>
